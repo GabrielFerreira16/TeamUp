@@ -4,10 +4,10 @@
 <br>
 <br>
 
+![image](https://github.com/user-attachments/assets/73787740-30b2-4281-8f26-fa97af41b477)
+
+
 <h1>Seja bem-vindo ao primeiro de muitos projetos da KrakenVortex Tech</h1>
-
-![Final Logo](https://github.com/PedrooH0/TeamUp/assets/124939591/8ce60ed3-4a21-4d56-8e5f-8e571fde609e)
-
 
 
 <a href="https://github.com/PedrooH0" target="_self" rel="external">Pedro Henrique</a> 
